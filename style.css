@@ -1,0 +1,113 @@
+body {
+  background-color: #e6e6e6;
+  color: #5a5a5a;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: #305071;
+}
+
+a:hover {
+  color: #8ccfb1;
+}
+
+.primary {
+  background-color: #305071;
+  color: white;
+}
+
+.secondary {
+  background-color: #8ccfb1;
+}
+
+.tertiary {
+  background-color: #e6d65b;
+}
+
+.info {
+  background-color: #dfdfdf;
+}
+
+.card {
+  border-radius: 0rem;
+}
+
+.card-header {
+  padding: 1.5rem;
+  font-size: 1.25rem;
+}
+
+.card-header:first-child {
+  border-radius: 0rem;
+}
+
+.card-body {
+  padding: 0rem;
+}
+
+.player {
+  font-weight: 800;
+  color: #5a5a5a;
+}
+
+.score, .rank, .points, .posttime {
+  text-align: right;
+}
+
+.statusdot {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.status {
+  text-align: center;
+}
+
+th.player, th {
+  font-weight: 400;
+}
+
+.table-striped tbody tr:nth-of-type(even) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.table-striped thead {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* desktop */
+@media screen and (min-width: 600px) {
+  .mobile-table-header {
+    display: none;
+  }
+}
+
+/* mobile */
+@media screen and (max-width: 600px) {
+  .desktop-table-header {
+    display: none;
+  }
+  .score {
+    display: none;
+  }
+  .player {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100px;
+  }
+  .posttitle {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
