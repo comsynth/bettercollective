@@ -12,4 +12,4 @@ Note: If this were to be put into production the external references above would
 ![](thatcher_desktop.png)
 ![](thatcher_mobile.png)
 
-## 615 943 2197
+#### 615 943 2197 |  thatcher@comsynth.com | https://github.com/comsynth/resume
