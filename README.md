@@ -11,4 +11,8 @@ Built from scratch in **VS code**, using the **bootstrap 4** css framework for i
 ![](thatcher_desktop.png)
 ![](thatcher_mobile.png)
 
+#### Original Wirefames
+![](wireframes/desktop.png)
+![](wireframes/mobile.png)
+
 #### 615 943 2197 |  thatcher@comsynth.com | https://github.com/comsynth/resume
