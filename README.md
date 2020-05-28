@@ -1,5 +1,5 @@
 # Better Collective
-#### wireframe work example.
+#### Wireframe work example.
 > Responsive page built using html and css (scss) to the Best Collective specifications as part of an interview process.
 
 Built from scratch in **VS code**, using the **bootstrap 4** css framework for it's responsive quailites .**Google fonts** are referenced. This has been tested in **chrome** in *desktop* and *mobile* views.
