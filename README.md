@@ -9,7 +9,5 @@ Note: If this were to be put into production the external references above would
 
 Screenshots
 
-https://github.com/comsynth/bettercollective/blob/master/thatcher_desktop.png
-
-https://github.com/comsynth/bettercollective/blob/master/thatcher_mobile.png
-
+![](thatcher_desktop.png)
+![](thatcher_mobile.png)
