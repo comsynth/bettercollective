@@ -8,11 +8,11 @@ Built from scratch in **VS code**, using the **bootstrap 4** css framework for i
 
 #### Screenshots
 
-![](thatcher_desktop.png)
-![](thatcher_mobile.png)
+![desktop](thatcher_desktop.png)
+![mobile](thatcher_mobile.png)
 
 #### Original Wirefames
-![](wireframes/desktop.png)
-![](wireframes/mobile.png)
+![desktop](wireframes/desktop.png)
+![mobile](wireframes/mobile.png)
 
 #### 615 943 2197 |  thatcher@comsynth.com | https://github.com/comsynth/resume
