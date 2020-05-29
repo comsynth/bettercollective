@@ -82,15 +82,13 @@ th.player, th {
   background-color: rgba(0, 0, 0, 0.05);
 }
 
-/* desktop */
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
   .mobile-table-header {
     display: none;
   }
 }
 
-/* mobile */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
   .desktop-table-header {
     display: none;
   }
@@ -101,13 +99,13 @@ th.player, th {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    max-width: 100px;
+    max-width: 160px;
   }
   .posttitle {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    max-width: 100px;
+    max-width: 200px;
   }
 }
 /*# sourceMappingURL=style.css.map */
